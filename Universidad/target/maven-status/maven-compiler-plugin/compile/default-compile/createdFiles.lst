@@ -1,0 +1,8 @@
+ec\edu\upd\sd\Universidades\business\GestionUniversidad.class
+ec\edu\upd\sd\Universidades\services\PathBase.class
+ec\edu\upd\sd\Universidades\business\GestionDatos.class
+ec\edu\upd\sd\Universidades\dao\UniversidadDAO.class
+ec\edu\upd\sd\Universidades\services\UniversidadServices.class
+ec\edu\upd\sd\Universidades\services\CORSFilter.class
+ec\edu\upd\sd\Universidades\services\ErrorMessage.class
+ec\edu\upd\sd\Universidades\model\Universidades.class
